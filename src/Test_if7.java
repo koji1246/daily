@@ -1,0 +1,13 @@
+
+public class Test_if7 {//ÇÌÇ©ÇÁÇ»Ç©Ç¡ÇΩ
+	public static void main(String[] args){
+		double x = 0;
+		
+		if(x ==(int)(x))
+			System.out.println("ê≥êî");
+		else
+			System.out.println("è¨êî");
+		
+	}
+
+}
